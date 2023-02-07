@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nicholasray2099
-- 👀 I’m interested in tech as subversive artistic and spiritual expression and/or tool
+- 👀 I’m interested in tech as subversive artistic and spiritual expression, tool
 - 🌱 I’m currently learning React etc.
-- 💞️ I’m looking to collaborate on ... well, not sure yet
+- 💞️ Looking to collaborate on film databases, webart, web chaplaincy, or any other esoteric web ephemera
 - 📫 Reach me at nicholas.listonav@gmail.com
 
 <!---
